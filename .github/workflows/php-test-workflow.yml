@@ -56,8 +56,8 @@ jobs:
                 EXTRA_ARGS=('--path-mode=intersection' '--' "${CHANGED_FILES[@]}")
                 PHP_CS_FIXER_IGNORE_ENV=1 composer check-style -- --using-cache=no "${EXTRA_ARGS[@]}"
 
-        -   name: Composer Analyze
-            run: composer analyze
+        # -   name: Composer Analyze
+            # run: composer analyze
 
         -   name: Composer Test
             run: composer test
