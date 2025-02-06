@@ -31,7 +31,7 @@
         "symfony/options-resolver": "^7.2.0",
         "symfony/property-access": "^7.2.0",
         "symfony/property-info": "^7.2.2",
-        "symfony/serializer": "^7.2.0"
+        "symfony/serializer": "^7.2.3"
     },
     "require-dev": {
         "dms/phpunit-arraysubset-asserts": "^0.4.0",
