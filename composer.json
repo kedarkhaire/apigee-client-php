@@ -46,7 +46,7 @@
         "phpmetrics/phpmetrics": "^2.7",
         "phpunit/phpunit": "^9.6",
         "sebastian/comparator": "^4.0.5",
-        "symfony/cache": "^7.2.1",
+        "symfony/cache": "^7.2.3",
         "vimeo/psalm": "^5.20"
     },
     "autoload": {
