@@ -86,7 +86,7 @@
             "dev-2.x": "2.0.x-dev"
         },
         "symfony": {
-+             "require": "^7"
-+         }
+            "require": "^7"
+        }
     }
 }
